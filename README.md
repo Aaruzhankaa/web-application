@@ -35,3 +35,9 @@
 ```bash
 cd demo
 .\gradlew bootRun
+
+### 🔧 frontend
+cd frontend
+npm install
+npm run dev
+
